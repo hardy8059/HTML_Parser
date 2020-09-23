@@ -25,9 +25,6 @@ This repo implements a html parser package, which extracts the links and texts f
 * [main](https://github.com/hardy8059/HTML_Parser/tree/master/main) - Contains the *main* file for execution.
 
 * [src](https://github.com/hardy8059/HTML_Parser/tree/master/src) - Contains the source code.
-  * [getPath.go](https://github.com/hardy8059/HTML_Parser/blob/master/src/getPath.go)
-
-  * [parser.go](https://github.com/hardy8059/HTML_Parser/blob/master/src/parser.go)
 
 ## Example Output
 
