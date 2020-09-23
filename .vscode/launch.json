@@ -16,8 +16,8 @@
             "name": "Run Program",
             "type": "go",
             "request": "launch",
-            "mode": "auto",
-            "program": "${workspaceFolder}/main/main.go",
+            "mode": "test",
+            "program": "${workspaceFolder}/main/main.go"
         }
     ]
 }
